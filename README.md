@@ -1,9 +1,15 @@
 Features
+
 Home Screen: Displays a welcome message and average price per course.
+
 Course Selection Screen: Allows the user to choose a course (e.g., Starters, Main Course, Dessert).
+
 Menu Page: Lists menu items for the selected course, with options to add or edit dishes.
+
 Add Menu Item Page: Enables users to add new dishes to the selected course.
+
 Edit Menu Item Page: Allows users to update or remove an existing dish.
+
 Dish Details Page: Shows detailed information about a selected dish.
 
 Changelog
