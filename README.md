@@ -7,19 +7,19 @@ Edit Menu Item Page: Allows users to update or remove an existing dish.
 Dish Details Page: Shows detailed information about a selected dish.
 
 Changelog
-v1.1.0
 
+v1.1.0
 Navigation Setup: Integrated React Navigation using @react-navigation/native and @react-navigation/stack.
 Added NavigationContainer to App.tsx for centralized navigation management.
 Configured a stack navigator with screens: Home, CourseSelection, MenuPage, AddMenuItemPage, EditMenuItemPage.
-v1.0.1
 
+v1.0.1
 Bug Fixes:
 Fixed an import issue where AddMenuItemPage was incorrectly named (add menu items psge -> AddMenuItemPage).
 Fixed screen names in the stack navigator to match the correct component names.
 Resolved issues with navigation types in TypeScript by defining RootStackParamList.
-v1.0.0
 
+v1.0.0
 Initial Release:
 Basic structure for the app with screens: Home, Course Selection, Menu, Add Menu Item, Edit Menu Item, and Dish Details.
 Implemented core functionalities for managing dishes within courses.
