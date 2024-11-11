@@ -5,6 +5,7 @@ Menu Page: Lists menu items for the selected course, with options to add or edit
 Add Menu Item Page: Enables users to add new dishes to the selected course.
 Edit Menu Item Page: Allows users to update or remove an existing dish.
 Dish Details Page: Shows detailed information about a selected dish.
+
 Changelog
 v1.1.0
 Navigation Setup: Integrated React Navigation using @react-navigation/native and @react-navigation/stack.
